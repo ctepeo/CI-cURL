@@ -1,5 +1,17 @@
 <?php
 
+/*
+    cURL library for CodeIgniter
+    created by George Sazanovich (ctepeo)
+    
+    Please be free to ask and contribute via github
+    https://github.com/ctepeo/CI-cURL/
+    
+    This code distributed with The MIT License (MIT), so be free to use it anywhere
+
+*/
+
+
 class Curl {
     /*
      * cURL settings
