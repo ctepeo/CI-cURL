@@ -1,3 +1,7 @@
+!!! DEPRECATED !!!
+
+This package is no longer actively maintained. If somebody sends in a pull request with some major security bug then I'll merge it, but other than that I am no longer using CodeIgniter Curl for anything. Framework specific code is something I thought was cool in 2009 when I built this, but I've barely touched it since. Use a framework agnostic equivilent, like Guzzle or Requests.
+
 <h2>CI-cURL</h2>
 =======
 CodeIgniter library for using cURL easily.
